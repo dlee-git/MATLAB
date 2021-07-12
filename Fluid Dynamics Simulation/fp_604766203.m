@@ -2,7 +2,7 @@ clear all; close all; clc;
 
 %% User Input
 % Initial position of array
-% 1 = simple ìdam breakî simulation
+% 1 = simple ‚Äúdam break‚Äù simulation
 % 2 = rhombus shape with velocity a function of x position
 setup = 1;
 %Save Movie - true or false (false plots live particle distribution)
